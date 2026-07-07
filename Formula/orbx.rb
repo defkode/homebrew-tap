@@ -1,8 +1,8 @@
 class Orbx < Formula
   desc "Per-project OrbStack sandboxes for Rails + Claude Code (and any template)"
   homepage "https://github.com/defkode/orbx"
-  url "https://github.com/defkode/orbx/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "f53a5a09584a7b69f492e24ed1c03d056db978d542fc7b09e7e60d5841652d01"
+  url "https://github.com/defkode/orbx/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "ef7ad5b70cbca0935b40587702be2da109bc90399d344c50d698b78a2a8fad18"
   license "MIT"
 
   depends_on "bash" # orbx uses bash >= 4 features; macOS ships 3.2
